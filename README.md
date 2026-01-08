@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rutuja 👋
 
-💻 **IT Engineering Student | Web Developer | Aspiring Data Analyst**  
+💻 **IT Engineering Student | Web Developer  
 🚀 Passionate about coding, problem-solving & building real-world projects  
 🌱 Currently learning **Java**, **SQL**, **DSA**, and **Data Analytics**  
 📂 Check out my repositories to see my journey!
